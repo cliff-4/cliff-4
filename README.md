@@ -6,5 +6,21 @@ I love tinkering with stuff, learning from what great devs have already built, t
 
 Check out my socials!
 <div id="header" align="left">
-  <img src="https://en.wikipedia.org/wiki/Instagram#/media/File:Instagram_logo_2022.svg" width="10"/> Instagram
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="10"/> Instagram 
+</div>
+<div id="header" align="left"> 
+	<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/800px-Facebook_f_logo_%282021%29.svg.png" width="10"/> 
+	Facebook 
+</div>
+<div id="header" align="left"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="10"/> 
+	LinkedIn 
+</div>
+<div id="header" align="left"> 
+	<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" width="10"/> 
+	Spotify 
+</div>
+<div id="header" align="left"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" width="10"/> 
+	Twitter 
 </div>
