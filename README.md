@@ -7,7 +7,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 Check out my socials!
 <div id="header" align="left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="10"/> 
-	<a href="https://www.instagram.com/waiit.whaat/"> Instagram </a>
+	<a href="https://www.instagram.com/waiit.whaat/" target="_blank"> Instagram </a>
 </div>
 <div id="header" align="left"> 
 	<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/800px-Facebook_f_logo_%282021%29.svg.png" width="10"/> 
