@@ -3,7 +3,7 @@
 </div>
 -->
 Hello there! My name is cliff. Or at least that's what my alias is. 
-I love tinkering with stuff, learning from what great devs have already built, to build something personal and modern.
+I love tinkering with stuff, learning from what great devs have already built, to build something personal and weird.
 
 Check out my socials!
 <div id="header" align="left">
