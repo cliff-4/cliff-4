@@ -7,36 +7,36 @@ My name is cliff. Or at least that's what my alias is.
 I love tinkering with stuff, learning from what great devs have already built, to build something personal and weird.
 
 ---
-### :man_dancing: About me!
+### :man_dancing: About me ~
 - point 1
 - point 2
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools I use
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/>&nbsp
 </div>
 ---
-### Check out my socials!
+### Check out my socials :D
 <div id="header" align="left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="10"/> 
 	<a href="https://www.instagram.com/waiit.whaat/"> Instagram </a>
