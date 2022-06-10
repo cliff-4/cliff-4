@@ -79,10 +79,10 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
 </div>
 
-<br><br>
+<br>
 
 <div id="header" align="center">
-<img src="https://tenor.com/6NmV.gif" height="100"/>
+<img src="https://tenor.com/view/chika-chika-dance-anime-anime-dance-dance-gif-13973731" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/_0-20%20screenshot.png" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/chapal-chapaal.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/ei%20chibi.jpg" height="100"/>
