@@ -2,8 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/65708785?s=400&u=ca4537d55367e3fb88988f916023f0def66e1714&v=4" width="100"/>
 </div>
 -->
-:raising_hand_man:<br>
-Hello there! My name is cliff. Or at least that's what my alias is. 
+### :raising_hand_man: Hello there! 
+My name is cliff. Or at least that's what my alias is. 
 I love tinkering with stuff, learning from what great devs have already built, to build something personal and weird.
 
 ---
@@ -36,7 +36,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/>
 </div>
 ---
-Check out my socials!
+### Check out my socials!
 <div id="header" align="left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="10"/> 
 	<a href="https://www.instagram.com/waiit.whaat/"> Instagram </a>
