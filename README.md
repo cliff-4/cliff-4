@@ -73,3 +73,23 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="20"/>
 	<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
 </div>
+
+<br><br>
+
+<div id="header" align="center">
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/_0-20%20screenshot.png" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/a.jpg" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/chapal-chapaal.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/ei%20chibi.jpg" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/fujihappy.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/kpop%20dance.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/nitro%20dps.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/round%20and%20round.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/sggsgw.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/strong%20paimon.png" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/tenor.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/uerhguerg.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/uwa.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/%F0%9F%91%81%EF%B8%8F%F0%9F%91%84%F0%9F%91%81%EF%B8%8F.gif" height="100"/>
+
+</div>
