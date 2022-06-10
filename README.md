@@ -46,7 +46,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 ---
 ### :fire: STATS
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4&layout=compact&theme=github_dark&hide_title=true&card_width=300&custom_title="Languages I use!")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4&layout=compact&theme=github_dark&hide_title=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Check out my socials! :D
