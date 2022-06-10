@@ -26,3 +26,6 @@ Check out my socials!
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" width="10"/> 
 	<a href="https://twitter.com/siighduuck"> Twitter </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
+
