@@ -45,9 +45,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 
 ---
 ### :fire: STATS
-<div id="header" align="center">
-	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354)](https://git.io/streak-stats)
 <!--
 <div id="header" align="center">
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4)](https://github.com/anuraghazra/github-readme-stats)
