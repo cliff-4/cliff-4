@@ -8,11 +8,12 @@ I love tinkering with stuff, learning from what great devs have already built, t
 
 ---
 ### :man_dancing: About me ~
-- I like making weird and obscure stuff
-- Tinkering is what I love
-- Huge fan of automation
-- Physics major
-- Osu! addict <a href="https://osu.ppy.sh/users/23424910/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/512px-Osu%21_Logo_2016.svg.png" width="20" height="20"/></a>
+- :zany_face: I like making weird and obscure stuff
+- :wrench: Tinkering is what I love
+- :factory: Huge fan of automation
+- :student: Physics major
+- <a href="https://osu.ppy.sh/users/23424910/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/512px-Osu%21_Logo_2016.svg.png" width="15" height="15"/></a> Osu! addict
+- :musical_note: Love listening to classicals and kpop!
 
 
 ---
