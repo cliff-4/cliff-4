@@ -1,7 +1,3 @@
-<!--<div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/65708785?s=400&u=ca4537d55367e3fb88988f916023f0def66e1714&v=4" width="100"/>
-</div>
--->
 ### :raising_hand_man: Hello there! 
 My name is cliff. Or at least that's what my alias is. 
 I love tinkering with stuff, learning from what great devs have already built, to build something personal and weird.
@@ -14,7 +10,6 @@ I love tinkering with stuff, learning from what great devs have already built, t
 - :student: Physics major
 - :musical_note: Love listening to classicals and kpop! (<a href="https://open.spotify.com/user/29uif90ku09efwem6gm4k7gky">also the weirdest music taste you'll ever witness</a>)
 - <img src="https://logos-world.net/wp-content/uploads/2022/02/Osu-Symbol.png" height="14"/><a href="https://osu.ppy.sh/users/23424910/">Osu! addict</a>
-
 
 ---
 ### :hammer_and_wrench: Languages and Tools I use
@@ -29,7 +24,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LATEX" alt="LATEX" width="40" height="40"/> <br>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LATEX" alt="LATEX" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
@@ -45,8 +40,8 @@ I love tinkering with stuff, learning from what great devs have already built, t
 
 ---
 ### :fire: STATS
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4&layout=compact&theme=github_dark&hide_title=false&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4&layout=compact&theme=github_dark&hide_title=false&card_width=300)]
 
 ---
 ### Check out my socials! :D
