@@ -27,7 +27,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp
-	<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp
