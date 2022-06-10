@@ -82,7 +82,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/ei%20chibi.jpg" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/fujihappy.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/kpop%20dance.gif" height="100"/>
-<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/nitro%20dps.gif" height="100"/>
+<img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/nitro%20dps.gif" height="100"/><br>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/round%20and%20round.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/sggsgw.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/strong%20paimon.png" height="100"/>
