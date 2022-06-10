@@ -90,7 +90,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/uerhguerg.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/uwa.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/%F0%9F%91%81%EF%B8%8F%F0%9F%91%84%F0%9F%91%81%EF%B8%8F.gif" height="100"/><br>
-<img src="https://drive.google.com/file/d/1BR2rkYFNuWgok_yrpRzyYvI7Wpq1t0hj/view?usp=sharing" width="200"/>
+<img src="https://imgur.com/a/8Xq7SbI" width="200"/>
 
 
 </div>
