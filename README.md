@@ -41,8 +41,8 @@ I love tinkering with stuff, learning from what great devs have already built, t
 ---
 ### :fire: STATS
 <div id="header" align="left">
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354" width="500"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4&layout=compact&theme=github_dark&hide_title=false&card_width=300" width="400"/>
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4&layout=compact&theme=github_dark&hide_title=false&card_width=300"/>
 </div>
 
 ---
