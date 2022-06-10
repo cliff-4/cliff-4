@@ -12,7 +12,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 - point 2
 ---
 ### :hammer_and_wrench: Languages and Tools I use
-<div id="header", align="left">
+<div id="header" align="left">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
