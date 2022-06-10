@@ -12,8 +12,8 @@ I love tinkering with stuff, learning from what great devs have already built, t
 - :wrench: Tinkering is what I love
 - :factory: Huge fan of automation
 - :student: Physics major
-- <a href="https://osu.ppy.sh/users/23424910/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/512px-Osu%21_Logo_2016.svg.png" width="10" height="10"/></a>   Osu! addict
-- :musical_note: Love listening to classicals and kpop!
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/512px-Osu%21_Logo_2016.svg.png" width="15" height="15"/><a href="https://osu.ppy.sh/users/23424910/">Osu! addict</a>
+- :musical_note: <a href="https://open.spotify.com/user/29uif90ku09efwem6gm4k7gky">Love listening to classicals and kpop! (also the weirdest music taste you'll ever witness)</a>
 
 
 ---
