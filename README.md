@@ -82,6 +82,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 <br><br>
 
 <div id="header" align="center">
+<img src="https://c.tenor.com/DbRUHnh1JfsAAAAd/chika-chika-dance.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/_0-20%20screenshot.png" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/chapal-chapaal.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/ei%20chibi.jpg" height="100"/>
