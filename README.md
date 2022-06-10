@@ -58,8 +58,9 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" width="10"/> 
 	<a href="https://twitter.com/siighduuck"> Twitter </a>
 </div>
-
+###
 <div id="header", align="center">
 	<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="20"/>
 	<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
 </div>
+---
