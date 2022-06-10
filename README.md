@@ -8,7 +8,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 
 ---
 ### :man_dancing: About me ~
-- :zany_face: I like making weird and obscure stuff
+- :zany_face: I like making <a href="https://www.youtube.com/shorts/wH4LlPSKhYQ">weird</a> and <a href="https://www.youtube.com/watch?v=1Onjx9heU5o">obscure</a> stuff
 - :wrench: Tinkering is what I love
 - :factory: Huge fan of automation
 - :student: Physics major
