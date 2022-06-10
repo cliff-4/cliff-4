@@ -44,6 +44,9 @@ I love tinkering with stuff, learning from what great devs have already built, t
 </div>
 
 ---
+### :fire: STATS
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354)](https://git.io/streak-stats)
+---
 ### Check out my socials! :D
 <div id="header" align="left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="10"/> 
@@ -90,7 +93,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/uerhguerg.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/uwa.gif" height="100"/>
 <img src="https://github.com/cliff-4/cliff-4/blob/main/imgs/%F0%9F%91%81%EF%B8%8F%F0%9F%91%84%F0%9F%91%81%EF%B8%8F.gif" height="100"/><br>
-<video width="200"><source src="https://giant.gfycat.com/BasicTheseLangur.mp4" type="video/mp4" controls></video>
+<img src="" width="200"/>
 
 
 </div>
