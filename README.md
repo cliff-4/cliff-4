@@ -29,5 +29,5 @@ Check out my socials!
 
 <div id="header", align="center">
 	<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="20"/>
-	<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
+	<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt="aditya"/>
 </div>
