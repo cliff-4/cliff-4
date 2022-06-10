@@ -28,5 +28,5 @@ Check out my socials!
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="10px"/>
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="10"/>
 
