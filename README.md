@@ -10,6 +10,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 ### :man_dancing: About me ~
 - point 1
 - point 2
+
 ---
 ### :hammer_and_wrench: Languages and Tools I use
 <div id="header" align="left">
@@ -36,6 +37,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
 </div>
+
 ---
 ### Check out my socials! :D
 <div id="header" align="left">
@@ -62,4 +64,3 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="20"/>
 	<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
 </div>
----
