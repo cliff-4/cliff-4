@@ -12,7 +12,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 - point 2
 ---
 ### :hammer_and_wrench: Languages and Tools I use
-<div>
+<div id="header", align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>&nbsp
@@ -36,7 +36,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/>&nbsp
 </div>
 ---
-### Check out my socials :D
+### Check out my socials! :D
 <div id="header" align="left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="10"/> 
 	<a href="https://www.instagram.com/waiit.whaat/"> Instagram </a>
