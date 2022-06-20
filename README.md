@@ -4,7 +4,7 @@ I love tinkering with stuff, learning from what great devs have already built, t
 
 ---
 ### :man_dancing: About me ~
-- :zany_face: I like making <a href="https://www.youtube.com/shorts/wH4LlPSKhYQ">weird</a> and <a href="https://www.youtube.com/watch?v=1Onjx9heU5o">obscure</a> stuff
+- :climbing_man: I like making <a href="https://www.youtube.com/shorts/wH4LlPSKhYQ">weird</a> and <a href="https://www.youtube.com/watch?v=1Onjx9heU5o">obscure</a> stuff
 - :wrench: <a href="https://github.com/cliff-4/youtube-dl_api">Tinkering</a> is what I love
 - :factory: Huge fan of automation
 - :student: Physics major
