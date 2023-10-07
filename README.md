@@ -2,7 +2,7 @@
 My name is cliff. Or at least that's what my alias is. 
 I love tinkering with stuff, learning from what great devs have already built, to build something personal and weird.
 
-Visit my website at <a href="https://cliff-4.github.io/">https://cliff-4.github.io/</a>.
+<a href="https://cliff-4.github.io/">Be sure to visit my website!</a>
 
 ---
 ### :man_dancing: About me ~
