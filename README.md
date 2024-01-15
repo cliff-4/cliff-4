@@ -66,8 +66,8 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<a href="https://open.spotify.com/user/29uif90ku09efwem6gm4k7gky"> Spotify </a>
 </div>
 <div id="header" align="left"> 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1024px-Twitter-logo.svg.png" width="10"/> 
-	<a href="https://twitter.com/siighduuck"> Twitter </a>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="10"/> 
+	<a href="https://twitter.com/siighduuck"> Twitter/X </a>
 </div>
 <div id="header" align="left"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="10"/> 
