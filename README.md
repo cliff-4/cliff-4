@@ -10,8 +10,9 @@ I love tinkering with stuff, learning from what great devs have already built, t
 - :wrench: <a href="https://github.com/cliff-4/youtube-dl_api">Tinkering</a> is what I love
 - :factory: Huge fan of automation
 - :student: Physics major
-- :musical_note: Love listening to classicals and kpop! (<a href="https://open.spotify.com/user/29uif90ku09efwem6gm4k7gky">also the weirdest music taste you'll ever witness</a>)
-- <img src="https://logos-world.net/wp-content/uploads/2022/02/Osu-Symbol.png" height="14"/><a href="https://osu.ppy.sh/users/23424910/">Osu! addict</a>
+- :musical_note: Love listening to Pink Floyd, Green Day and Illenium. (<a href="https://open.spotify.com/user/29uif90ku09efwem6gm4k7gky">also the weirdest music taste you'll ever witness</a>)
+- <img src="https://logos-world.net/wp-content/uploads/2022/02/Osu-Symbol.png" height="14"/><a href="https://osu.ppy.sh/users/23424910/">Ex-Osu! addict</a>
+- 🇮🇳 Based in India
 
 ---
 ### :hammer_and_wrench: Languages and Tools I use
