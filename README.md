@@ -49,6 +49,11 @@ I love tinkering with stuff, learning from what great devs have already built, t
 <!-- [![cliff's GitHub stats](https://github-readme-stats.vercel.app/api?username=cliff-4&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) -->
 
 ---
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="20"/>
+	<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
+</div>
+<!-- 
 ### Check out my socials! :D
 <div id="header" align="left">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png" width="10"/> 
@@ -74,10 +79,6 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="10"/> 
 	<a href="https://www.youtube.com/channel/UCNJ1CAP5eCMzXzyzZbdtkHw"> Youtube </a>
 </div>
-<div id="header" align="center">
-	<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="20"/>
-	<img src="https://komarev.com/ghpvc/?username=cliff-4&style=flat-square&color=blue" alt=""/>
-</div>
 
 <br>
 
@@ -100,3 +101,4 @@ I love tinkering with stuff, learning from what great devs have already built, t
 
 
 </div>
+ -->
