@@ -41,11 +41,11 @@ I love tinkering with stuff, learning from what great devs have already built, t
 	<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
 </div>
 
----
-### :fire: STATS
+<!-- --- -->
+<!-- ### :fire: STATS -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4&layout=compact&theme=github_dark&hide_title=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cliff-4&theme=github-dark-blue&hide_border=true&sideNums=3AD354)](https://git.io/streak-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-4&layout=compact&theme=github_dark&hide_title=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![cliff's GitHub stats](https://github-readme-stats.vercel.app/api?username=cliff-4&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) -->
 
 ---
